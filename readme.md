@@ -1,11 +1,11 @@
-# OllyVerse
+# Ollyverse
 
-OllyVerse is a visionary tech team crafting sleek, scalable software for the modern era.  
+Ollyverse is a visionary tech team crafting sleek, scalable software for the modern era.  
 We blend design, code, and strategy to build digital experiences that connect, empower, and inspire.
 
 ## What We Do
 
-OllyVerse focuses on building practical, high-quality digital products with long-term value.  
+Ollyverse focuses on building practical, high-quality digital products with long-term value.  
 Our work spans across:
 
 - Web applications and platforms  
@@ -19,7 +19,7 @@ We care about clarity, performance, and scalability — not just shipping fast, 
 
 Technology should solve real problems, not create new ones.
 
-At OllyVerse, we believe:
+At Ollyverse, we believe:
 - Good design is functional before it is beautiful  
 - Clean code scales better than clever shortcuts  
 - Strategy matters as much as execution  
@@ -30,7 +30,7 @@ Every project is approached with intention, curiosity, and respect for the end u
 
 ## Open Source & Collaboration
 
-This GitHub hosts projects, experiments, and ideas developed by the OllyVerse team.  
+This GitHub hosts projects, experiments, and ideas developed by the Ollyverse team.  
 Some repositories are polished products, others are learning grounds — both matter.
 
 We welcome:
@@ -40,7 +40,7 @@ We welcome:
 
 ## Vision
 
-OllyVerse exists to build technology that feels intentional, usable, and human.  
+Ollyverse exists to build technology that feels intentional, usable, and human.  
 We’re not chasing trends — we’re building systems that last.
 
 ---
